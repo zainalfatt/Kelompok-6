@@ -21,7 +21,7 @@ Proyek ini terdiri dari empat bagian utama yang mencakup berbagai struktur data 
 
 * Linked List ~ Todo List: Zainal Fattah bertanggung jawab untuk mengembangkan sistem Todo list menggunakan Linked List.
 * Graph ~ Pencarian Jalur Terpendek: Zainal Fattah fokus pada pengembangan algoritma Graph untuk mencari jalur terpendek.
-* Tree ~ Kategori Elektronik (Smartphone dan Laptop): Akhmad Syaifudin & Zainal Fattah bertugas mengembangkan struktur Tree untuk mengkategorikan produk elektronik, khususnya smartphone dan laptop.
+* Tree ~ Kategori Elektronik (Smartphone dan Laptop): Akhmad Syaifudin bertugas mengembangkan struktur Tree untuk mengkategorikan produk elektronik, khususnya smartphone dan laptop dan dibantu sedikit oleh zainal.
 * Sorted ~ Pembayaran UKT: Akhmad Syaifudin dan Zainal Fattah bekerja sama dalam mengembangkan Sorted untuk mengurutkan pembayaran UKT berdasarkan tanggal dan mencari mahasiswa menggunakan NIM.
 
 # Kesimpulan
