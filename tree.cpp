@@ -68,8 +68,7 @@ void choose_category(const Category& category) {
         if (choice > 0 && choice <= static_cast<int>(category.subcategories.size())) {
             choose_category(category.subcategories[choice - 1]);
         } else if (choice > 0 && choice <= static_cast<int>(category.products.size())) {
-            std::cout << "You selected: " << category.products[choice - 1].name
-                      << " - Rp " << category.products[choice - 1].price << std::endl;
+            std::cout << "You selected: " << category.products[choice - 1].name<< " - Rp " << category.products[choice - 1].price << std::endl;
         }
     } while (choice != 0);
 }

@@ -79,6 +79,7 @@ int main() {
     cout << "1. Tambahkan List Tugas\n";
     cout << "2. Tampilkan List Tugas\n";
     cout << "3. Hapus Tugas Dari List\n";
+    cout << "4. Exit\n";
     int pilihan;
     do{
         
