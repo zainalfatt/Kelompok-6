@@ -10,8 +10,8 @@ Repository ini merupakan hasil kolaborasi dari anggota Kelompok 6 dalam rangka m
 # Deskripsi Anggota Kelompok
 
 ## Tugas
-- Zainal Fattah: Bertanggung jawab atas pengembangan dan implementasi Linked List untuk menyusun Todo list dan Graph, dan membantu Penanganan Error pada Tree dan Sorted.
-- Akhmad Syaifudin: Memfokuskan pada pengembangan dan implementasi Tree dan Sorted, membantu pembuatan video.
+- Zainal Fattah: Bertanggung jawab atas pengembangan dan implementasi Linked List untuk menyusun Todo list dan Graph, dan membantu Penanganan Error pada Tree dan Sorted, membuat repository Github.
+- Akhmad Syaifudin: Memfokuskan pada pengembangan dan implementasi Tree dan Sorted, membantu pembuatan video & menguploadnya pada youttube
 - Muhammad Veri Ramadhani: Menjelaskan Source Code Sorted dan Tree pada Youtube.
 - Mohammad Syarif Hidayatullah: Bertugas Menjelaskan Source Code Graph pada Youtube.
 - Alex Hidayatullah: Bertugas Menjelaskan Source Code Linked LIst pada Youtube.
