@@ -14,7 +14,7 @@ Repository ini merupakan hasil kolaborasi dari anggota Kelompok 6 dalam rangka m
 - Akhmad Syaifudin: Memfokuskan pada pengembangan dan implementasi Tree dan Sorted, membantu pembuatan video & menguploadnya pada youttube
 - Muhammad Veri Ramadhani: Menjelaskan Source Code Sorted dan Tree pada Youtube.
 - Mohammad Syarif Hidayatullah: Bertugas Menjelaskan Source Code Graph pada Youtube.
-- Alex Hidayatullah: Bertugas Menjelaskan Source Code Linked LIst pada Youtube.
+- Alex Hidayatullah: Bertugas Menjelaskan Source Code Linked List pada Youtube.
 
 ## Penjelasan
 Proyek ini terdiri dari empat bagian utama yang mencakup berbagai struktur data dan algoritma:
