@@ -3,11 +3,11 @@
 Repository ini merupakan hasil kolaborasi dari anggota Kelompok 6 dalam rangka menyelesaikan tugas Algoritma dan Struktur Data. Kelompok ini terdiri dari lima anggota yang berkomitmen: 
 1. Zainal Fattah - 32602300013
 2. Akhmad Syaifudin - 32602300014
-3. Muhammad Veri Ramadhani
-4. Mohammad Syarif Hidayatullah
-5. Alex Hidayatullah
+3. Muhammad Veri Ramadhani - 32602300027
+4. Mohammad Syarif Hidayatullah - 32602300025
+5. Alex Hidayatullah - 32602300011
   
-# Deskripsi Anggota Kelompok
+# Kelompok-6 UAS Algoritma & Struktur Data:Tim Kolaboratif
 
 ## Tugas
 - Zainal Fattah: Bertanggung jawab atas pengembangan dan implementasi Linked List untuk menyusun Todo list dan Graph, dan membantu Penanganan Error pada Tree dan Sorted, membuat repository Github.
