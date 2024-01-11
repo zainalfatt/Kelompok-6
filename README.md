@@ -20,13 +20,14 @@ Repository ini merupakan hasil kolaborasi dari anggota Kelompok 6 dalam rangka m
 Proyek ini terdiri dari empat bagian utama yang mencakup berbagai struktur data dan algoritma:
 
 * **Linked List ~ Todo List**: mengembangkan sistem Todo list menggunakan Linked List.
-~ Link Video Penjelasan **Linked List** : https://youtu.be/WxZzSpL8tac?si=hoti8xg92Z9vXtRb
 * **Graph ~ Pencarian Jalur Terpendek**: pengembangan algoritma Graph untuk mencari jalur terpendek.
-~ Link Video Penjelasan **Graph** : https://youtu.be/ASckHzuQjJs?si=5Uy36oMcmACCwZLM
 * **Tree ~ Kategori Elektronik (Smartphone dan Laptop)**: pengembangan struktur Tree untuk mengkategorikan produk elektronik, khususnya smartphone dan laptop.
-~ Link Video Penjelasan **Tree** : https://youtu.be/rlfrNVPvO4s?si=7hUxMA08yGU1dU6q
 * **Sorted ~ Pembayaran UKT**: pengembangan Sorted untuk mengurutkan pembayaran UKT berdasarkan tanggal dan mencari mahasiswa menggunakan NIM.
-~ Link Video Penjelasan **Sorted** : https://youtu.be/SEBhd9hytso?si=bkPvGs8iDyhQA82G
+## Penjelasan Lebih Lanjut :
+- Link Video Penjelasan **Linked List** : https://youtu.be/WxZzSpL8tac?si=hoti8xg92Z9vXtRb
+- Link Video Penjelasan **Graph** : https://youtu.be/ASckHzuQjJs?si=5Uy36oMcmACCwZLM
+- Link Video Penjelasan **Tree** : https://youtu.be/rlfrNVPvO4s?si=7hUxMA08yGU1dU6q
+- Link Video Penjelasan **Sorted** : https://youtu.be/SEBhd9hytso?si=bkPvGs8iDyhQA82G
 
 # Kesimpulan
 Repository ini adalah hasil kolaborasi yang menggabungkan berbagai konsep Algoritma dan Struktur Data, menciptakan solusi inovatif untuk permasalahan yang beragam. Dengan demikian, proyek ini menunjukkan kemampuan dan pemahaman mendalam kelompok ini dalam menerapkan konsep-konsep tersebut dalam pemrograman.
