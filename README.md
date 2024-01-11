@@ -19,10 +19,14 @@ Repository ini merupakan hasil kolaborasi dari anggota Kelompok 6 dalam rangka m
 # Penjelasan
 Proyek ini terdiri dari empat bagian utama yang mencakup berbagai struktur data dan algoritma:
 
-* Linked List ~ Todo List: Zainal Fattah bertanggung jawab untuk mengembangkan sistem Todo list menggunakan Linked List. Link Video : https://youtu.be/WxZzSpL8tac?si=hoti8xg92Z9vXtRb
-* Graph ~ Pencarian Jalur Terpendek: Zainal Fattah fokus pada pengembangan algoritma Graph untuk mencari jalur terpendek.
-* Tree ~ Kategori Elektronik (Smartphone dan Laptop): Akhmad Syaifudin bertugas mengembangkan struktur Tree untuk mengkategorikan produk elektronik, khususnya smartphone dan laptop dan dibantu sedikit oleh zainal.
-* Sorted ~ Pembayaran UKT: Akhmad Syaifudin dan Zainal Fattah bekerja sama dalam mengembangkan Sorted untuk mengurutkan pembayaran UKT berdasarkan tanggal dan mencari mahasiswa menggunakan NIM.
+* Linked List ~ Todo List: mengembangkan sistem Todo list menggunakan Linked List.
+  Link Video Penjelasan : https://youtu.be/WxZzSpL8tac?si=hoti8xg92Z9vXtRb
+* Graph ~ Pencarian Jalur Terpendek: pengembangan algoritma Graph untuk mencari jalur terpendek.
+  Link Video Penjelasan : https://youtu.be/ASckHzuQjJs?si=5Uy36oMcmACCwZLM
+* Tree ~ Kategori Elektronik (Smartphone dan Laptop): pengembangan struktur Tree untuk mengkategorikan produk elektronik, khususnya smartphone dan laptop.
+  Link Video Penjelasan : https://youtu.be/rlfrNVPvO4s?si=7hUxMA08yGU1dU6q
+* Sorted ~ Pembayaran UKT: pengembangan Sorted untuk mengurutkan pembayaran UKT berdasarkan tanggal dan mencari mahasiswa menggunakan NIM.
+  Link Video Penjelasan : https://youtu.be/SEBhd9hytso?si=bkPvGs8iDyhQA82G
 
 # Kesimpulan
 Repository ini adalah hasil kolaborasi yang menggabungkan berbagai konsep Algoritma dan Struktur Data, menciptakan solusi inovatif untuk permasalahan yang beragam. Dengan demikian, proyek ini menunjukkan kemampuan dan pemahaman mendalam kelompok ini dalam menerapkan konsep-konsep tersebut dalam pemrograman.
