@@ -38,8 +38,8 @@ lalu ketik pada terminal vs code : git clone https://github.com/zainalfatt/Kelom
 
 atau Buka CMD/Terminal kalian, lalu
 ketik : 
-      ```bash
-git clone https://github.com/zainalfatt/Kelompok-6.git
+   ```bash
+   git clone https://github.com/zainalfatt/Kelompok-6.git
 nanti akan ada folder nama "kelompok-6" pada laptop anda, tinggal running deh di vs code, dev c++, dan sebagainya.
 
 # Kesimpulan
