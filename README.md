@@ -42,6 +42,19 @@ atau Buka CMD/Terminal kalian
    ```bash
    git clone https://github.com/zainalfatt/Kelompok-6.git
 2. nanti akan ada folder nama "kelompok-6" pada laptop anda, tinggal running deh di vs code, dev c++, dan sebagainya.
+3. Pada VS Code, sebelumnya pastikan sudah menginstall ekstension c++ dan run code untuk mengkompile file.cppnya
+4. kalau sudah terinstall kompile filenya menggunakan run code, jika ada warning penggunana harus pada versi c++11 bisa gunakan 
+command ini, ganti nama file sesuai nama filenya & output/hasil compile
+   ```bash
+   g++ -std=c++11 nama_file.cpp -o your_executable_name
+5. jika pake cara command yang saya berikan ketik lagi diterminal, lalu enter
+      ```bash
+   ./nama_output_atau_compilenya
+6. Ketika menjalankan file linkedlist, maka user diminta untuk memasukan kegiatan beserta tingkat priositasnya dan bisa menghapusnya jika kegiatan tersebut sudah dilakukan/selesai, pada fitur yang tersedia.
+7. Ketika menjalankan file graph, maka user diminta unutk memasukan alamat berupa angka(1-4 saja) dimana angka tersebut mengukur bobot mana yang lebih efektik untuk menuju tujuan.
+8. Ketika menjalankan file Sorted, maka user diminta untuk memasukan jumlah data sesuai keinginan user, dan dapat mencari data lewat nim.
+9. Ketika menjalankan file Tree, maka user diminta untuk memasukan angka dimana angka tersebut mewakili pilihan, entah itu handphone atau laptop.
+
 
 # Kesimpulan
 Repository ini adalah hasil kolaborasi yang menggabungkan berbagai konsep Algoritma dan Struktur Data, menciptakan solusi inovatif untuk permasalahan yang beragam. Dengan demikian, proyek ini menunjukkan kemampuan dan pemahaman mendalam kelompok ini dalam menerapkan konsep-konsep tersebut dalam pemrograman.
