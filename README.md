@@ -29,5 +29,16 @@ Proyek ini terdiri dari empat bagian utama yang mencakup berbagai struktur data 
 - Link Video Penjelasan **Tree** : https://youtu.be/rlfrNVPvO4s?si=7hUxMA08yGU1dU6q
 - Link Video Penjelasan **Sorted** : https://youtu.be/SEBhd9hytso?si=bkPvGs8iDyhQA82G
 
+# Petunjuk Penggunaan
+Persiapan Awal:
+Pastikan Anda memiliki GCC (GNU Compiler Collection) atau compiler C/C++ yang terinstal di sistem Anda. Jika belum, Anda dapat mengunduh dan menginstalnya dari sumber resmi.
+
+Buka VS Code.
+lalu ketik pada terminal vs code : git clone https://github.com/zainalfatt/Kelompok-6.git kemudian enter.
+
+atau Buka CMD/Terminal kalian, lalu
+ketik : git clone https://github.com/zainalfatt/Kelompok-6.git
+nanti akan ada folder nama "kelompok-6" pada laptop anda, tinggal running deh di vs code, dev c++, dan sebagainya.
+
 # Kesimpulan
 Repository ini adalah hasil kolaborasi yang menggabungkan berbagai konsep Algoritma dan Struktur Data, menciptakan solusi inovatif untuk permasalahan yang beragam. Dengan demikian, proyek ini menunjukkan kemampuan dan pemahaman mendalam kelompok ini dalam menerapkan konsep-konsep tersebut dalam pemrograman.
