@@ -40,7 +40,7 @@ atau Buka CMD/Terminal kalian
 1. Pastikan Anda memiliki semua dependensi yang dibutuhkan. Anda dapat menjalankan perintah:
 
    ```bash
-   https://github.com/zainalfatt/Kelompok-6.git
+   git clone https://github.com/zainalfatt/Kelompok-6.git
 2. nanti akan ada folder nama "kelompok-6" pada laptop anda, tinggal running deh di vs code, dev c++, dan sebagainya.
 
 # Kesimpulan
